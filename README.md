@@ -21,7 +21,7 @@ Este trabajo se sumerge en el complejo mundo de los accidentes de aviones. En ú
 SIMULAMOS que La Organización de Aviación Civil Internacional (OACI), organismo de la Organización de las Naciones Unidas, quiere investigar en profundidad los accidentes producidos desde inicios del siglo XX. Para ello, el objetivo principal es poder obtener un análisis de datos relacionado a esto, junto a un dashboard que complemente los análisis con sus visualizaciones, con este [dataset](/data/AccidentesAviones.csv).
 
 # ETL - EDA
-[Link](/src/ETL_EDA) Para realizar los procesos de ETL se utilizó Python con librerías de Numpy, Pandas, Matplotlib y Seaborn, entre otras. Se elimino las calumnas que no vamos a usar y se trato de salvar algunos registros con valores faltntes y los que no se elimino. 
+[Link](/src/ETL_EDA.ipynb) Para realizar los procesos de ETL se utilizó Python con librerías de Numpy, Pandas, Matplotlib y Seaborn, entre otras. Se elimino las calumnas que no vamos a usar y se trato de salvar algunos registros con valores faltntes y los que no se elimino. 
 El Análisis Exploratorio de Datos (EDA) se ha convertido en una herramienta esencial para científicos de datos, analistas y profesionales en una amplia gama de disciplinas.
 
  A lo largo de nuestro recorrido, aprenderemos cómo estas bibliotecas pueden ayudarnos a adentrarnos en los datos, descubrir patrones ocultos y extraer información valiosa.
