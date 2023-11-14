@@ -8,7 +8,7 @@
 
 
 <h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
+ <b>PROYECTO INCIDENTES AEREOS </b>
 </h1>
 <p align='center'>
 
